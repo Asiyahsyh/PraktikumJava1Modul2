@@ -8,5 +8,9 @@ public class Main {
         boolean cantik = true;
 
         System.out.println(namaDepan);
+
+        char[] uniskaChar = {'U', 'N', 'I', 'S', 'K', 'A'};
+        String uniskaStirng = new String(uniskaChar);
+        System.out.println(uniskaStirng);
     }
 }
